@@ -1,1 +1,2 @@
-# raspberry-pi
+# Raspberry-Pi
+Raspberry Pi personal projects
